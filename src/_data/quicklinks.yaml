@@ -1,13 +1,10 @@
 links:
-  - title: What Is Racism?
-    url: https://www.netlifycms.org/
-    desc: "Click here to learn more "
-  - title: "What can you do? "
+  - title: anti-racism for 11-20
     url: https://www.11ty.dev/
-    desc: Click here for ideas on what to do
-  - title: Where to turn?
+    desc: pretty serious stuff.
+  - title: anti-racism for kids 8-10
     url: https://github.com/alpinejs/alpine
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: "What is this question? "
+    desc: serious stuff
+  - title: anti-racism for kids 6-7
     url: https://tailwindcss.com/
-    desc: the
+    desc: "appropriate serious "
