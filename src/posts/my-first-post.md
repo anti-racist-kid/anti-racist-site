@@ -1,7 +1,7 @@
 ---
 title: "thinking of racism part one: the learning part"
 description: learning about racism
-author: Nathan Oskar Janco
+author: Young Anti Racist
 date: 2020-09-01
 tags:
   - left
