@@ -10,24 +10,24 @@ tags:
 
 **by Miriam Kubo** 
 
-***Jim Crow laws were evil, twisted, horrid.***
+Jim Crow laws were evil, twisted, horrid.
 
-***Yes, horrid, so never say they are good***
+Yes, horrid, so never say they are good
 
-***because they weren’t.***  
+because they weren’t.  
 
-***It started with the Civil War,***
+It started with the Civil War,
 
-***and then the segregation,***
+and then the segregation,
 
-***and so the protests happened.*** 
+and so the protests happened. 
 
-***I never would have known.*** 
+I never would have known. 
 
-***People who are darker of the skin***
+People who are darker of the skin
 
-***were treated horribly*** 
+were treated horribly 
 
-***and people who were white***
+and people who were white
 
-***were treated like royalty.***
+were treated like royalty.
