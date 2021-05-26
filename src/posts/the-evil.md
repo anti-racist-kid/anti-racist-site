@@ -1,7 +1,7 @@
 ---
 title: THE EVIL
 description: a poem
-author: by Young Anti Racist Kid, Miriam Kubo
+author: " Young Anti Racist Kid, Miriam Kubo"
 date: 2021-05-26T21:38:45.838Z
 tags:
   - created
