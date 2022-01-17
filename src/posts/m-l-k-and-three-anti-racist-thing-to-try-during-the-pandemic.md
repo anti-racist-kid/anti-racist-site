@@ -12,6 +12,10 @@ tags:
 
 Martin Luther King Jr. was a leader in the civil rights. The important and his group of Anti-Racist (including Malcom X, and John Lewis) helped end segregation. But thats all they tell you in school. The painting by Emma Amos called You're Choice is showing M.L.K. Jr. and Malcom Z side by side, ones upside down and one is straight.
 
+![](/static/img/emma.jpg)
+
+
+
 **Three Anti-racist Thing to try during the Pandemic:**
 
 1.) Donate to NAACP
@@ -28,6 +32,8 @@ you're probably saying "wait a minute! two a's? what is this thing?!". well, the
 
 **picture book**
 
+![](/static/img/grandmamas-pride.jpeg)
+
 A Family is visiting Birmingham (which is in the south) see's the sad life of segregation. Bathrooms, Ice-Cream shops, and even water fountains are segregated! At the end, the sister can now go to any bathroom they want.
 
 **The Watson's Go To Birmingham, 1963**
@@ -35,5 +41,11 @@ A Family is visiting Birmingham (which is in the south) see's the sad life of se
 **third grade through seventh grade** 
 
 **novel**
+
+![](/static/img/91rogxds8dl.jpeg)
+
+
+
+![]()
 
 It's winter up in Flint, Michigan. Which means unlivable cold at -20 degrease fahrenheit. And Byron Watson is as dangerous as a bomb. So it's time to go to Birmingham! Will Byron change his childish was or will he stay the same?
