@@ -10,9 +10,21 @@ tags:
 
 ![](/static/img/martin_luther_king-_jr._speaking_at_the_civil_rights_marc.jpg)
 
+Dr. Martin Luther King, Jr. speaking at the Civil Rights March on Washington, Aug. 28, 1963.
+
+photo taken by National Archives and Records Administration
+
+
+
 Martin Luther King Jr. was a leader in the civil rights. The important and his group of Anti-Racist (including Malcom X, and John Lewis) helped end segregation. But thats all they tell you in school. The painting by Emma Amos called You're Choice is showing M.L.K. Jr. and Malcom Z side by side, ones upside down and one is straight.
 
 ![](/static/img/emma.jpg)
+
+art done by: Emma Amos
+
+photo taken by: Olga Livshin 
+
+
 
 **Three Anti-racist Thing to try during the Pandemic:**
 
