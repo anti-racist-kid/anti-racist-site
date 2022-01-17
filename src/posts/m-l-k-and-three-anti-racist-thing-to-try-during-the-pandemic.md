@@ -8,13 +8,11 @@ tags:
 ---
 **M.L.K. Jr. :**
 
-![](https://d1y8sb8igg2f8e.cloudfront.net/images/mlk.width-800.jpg)
+![](/static/img/martin_luther_king-_jr._speaking_at_the_civil_rights_marc.jpg)
 
 Martin Luther King Jr. was a leader in the civil rights. The important and his group of Anti-Racist (including Malcom X, and John Lewis) helped end segregation. But thats all they tell you in school. The painting by Emma Amos called You're Choice is showing M.L.K. Jr. and Malcom Z side by side, ones upside down and one is straight.
 
 ![](/static/img/emma.jpg)
-
-
 
 **Three Anti-racist Thing to try during the Pandemic:**
 
@@ -43,8 +41,6 @@ A Family is visiting Birmingham (which is in the south) see's the sad life of se
 **novel**
 
 ![](/static/img/91rogxds8dl.jpeg)
-
-
 
 ![]()
 
