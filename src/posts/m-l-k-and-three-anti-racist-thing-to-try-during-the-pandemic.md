@@ -55,3 +55,9 @@ A family is visiting Birmingham (which is in the South) and sees the sad life of
 ![]()
 
 It's winter up in Flint, Michigan. Which means unlivable cold at -20 degrees Fahrenheit. And Byron Watson is as dangerous as a bomb. So it's time to go to Birmingham! Staying there will show him what segregated life is like. Will Byron change his childish ways or will he stay the same?
+
+also there is a video version:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CLx3_HQV_to" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+please like and subscribe for more videos about Anti-Racism
